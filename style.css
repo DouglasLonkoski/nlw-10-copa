@@ -131,7 +131,6 @@ header{
     opacity: 0;
     animation: appear .2s forwards;
 }
-
 @keyframes appear{
     0%{
         transform:translateY(-50px);
@@ -141,7 +140,6 @@ header{
         opacity: 1;
     }
 }
-
 @media(min-width: 700px){
     #cards{
         max-width: 670px;

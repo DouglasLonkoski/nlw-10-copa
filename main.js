@@ -17,8 +17,8 @@ function createcard(date, day, games){
         <ul>
         ${games}
         </ul>
-    </div>
-    `
+    </div> 
+      `
 }
 
 document.querySelector('#cards').innerHTML = 
